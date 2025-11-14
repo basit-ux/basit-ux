@@ -30,6 +30,7 @@ for collaboration, projects, or anything tech-related! 😊
 👯 <strong>I’m looking to collaborate on:</strong> Frontend Projects & Open Source Contributions<br>
 🤔 <strong>I’m looking for help with:</strong> UI/UX Design and Performance Optimization<br>
 📫 <strong>How to reach me:</strong> <a href="https://linkedin.com/in/basit-khan_ux">LinkedIn</a><br>
+<strong>Check out my portfolio here:</strong> [Visit My Portfolio](https://portfolio-app-web.netlify.app/)<br>
 😄 <strong>Pronouns:</strong> He / Him<br>
 ⚡ <strong>Fun fact:</strong> I turn ideas into code and coffee into productivity ☕💡
 </p>
