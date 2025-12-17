@@ -14,7 +14,7 @@
 
 
 ---
-                                         <h1 align="center">💫 Hi 👋, I'm Basit Khan</h1>
+                                                             💫 Hi 👋, I'm Basit Khan
 <h3 align="center">A passionate Web Developer || Programmer from Pakistan 💻</h3>
 
 <p align="center">
